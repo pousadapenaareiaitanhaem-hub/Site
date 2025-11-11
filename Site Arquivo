@@ -1,0 +1,28 @@
+pousada-pena-areia/
+│
+├── index.html          → Página inicial (hero, chalés, comodidades, reservas, blog, contato)
+├── en.html             → Versão em inglês
+├── es.html             → Versão em espanhol
+│
+├── /css
+│   └── styles.css      → Estilos gerais (cores, fontes, layout responsivo)
+│
+├── /js
+│   └── script.js       → Interações (menu mobile, troca de idioma, formulário de reservas)
+│
+├── /images
+│   ├── hero.jpg        → Foto de capa (vista da varanda para o mar)
+│   ├── quarto-casal.jpg
+│   ├── quarto-triplo.jpg
+│   ├── quarto-quadruplo.jpg
+│   ├── galeria-1.jpg   → Fotos da pousada e praia
+│   └── ...             → Outras imagens que você enviou
+│
+├── /blog
+│   ├── index.html      → Página inicial do blog
+│   ├── fim-de-semana.html
+│   ├── viajar-com-pets.html
+│   └── praias-tranquilas.html
+│
+└── /assets
+    └── icons/          → Ícones de redes sociais (Instagram, TikTok, WhatsApp)
